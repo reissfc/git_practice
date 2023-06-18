@@ -4,6 +4,7 @@ Bananas
 Oranges
 Strawberries
 Apples
+Mangos
 
 MEAT
 Sausages
